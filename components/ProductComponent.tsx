@@ -22,7 +22,7 @@ const ProductComponent: React.FC<ProductComponentProps> = ({ imageUrl, imageAlt,
                         className="rounded-t-lg"
                         src={imageUrl}
                         alt={imageAlt}
-                        width={200}
+                        width={220}
                         height={200}
                         priority={true}
                     />
