@@ -3,7 +3,7 @@ import React from 'react'
 
 const productos = () => {
   return (
-    <div className='flex flex-wrap justify-center md:justify-start gap-4 m-8 max-w-[1000px] mx-auto'>
+    <div className='container_component flex flex-wrap gap-1 justify-center md:justify-start max-w-[1000px] mx-auto mb-4'>
       <ProductComponent
         imageUrl="/static/images/protsan.png"
         imageAlt="Protsan"
