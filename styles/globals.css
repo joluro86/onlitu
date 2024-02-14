@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.prueba{
+  border: solid 2px red;
+}
+
 @media (max-width: 425px) {
     .container_producto {
       width: 150px; 

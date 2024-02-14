@@ -10,7 +10,7 @@ const productos = () => {
         title="Protsan"
         description="Medicamento natural para la inflamación de la próstata."
         precio= 'Precio unidad: 79,900'
-        linkHref="/producto/protsan"
+        linkHref="/naturales/protsan"
       />
       <ProductComponent
         imageUrl="/static/images/protsan.png"
